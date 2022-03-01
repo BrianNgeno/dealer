@@ -1,41 +1,60 @@
-.carousel-inner{
+.carousel-inner {
     width: 100%;
     height: 90vh;
-    
+
 }
 
-.carousel-item{
+.carousel-item {
     width: 100%;
-    height: 90vh; 
+    height: 90vh;
 }
 
-.carousel-item img{
+.carousel-item img {
     opacity: 0.5;
 }
-.carousel-item h5{
-    color:rgb(0, 0, 0);
+
+.carousel-item h5 {
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
     font-size: xx-large;
     font-weight: 600;
 }
 
-.carousel-item p{
+.carousel-item p {
     color: #000;
 }
 
-#about{
+#about {
     padding: 5%;
+    height: 100vh;
 }
 
-#about h5{
+#about h5 {
     text-align: center;
     text-transform: uppercase;
     font-weight: 600;
     font-size: xx-large;
 }
 
-#about p{
+#about p {
     padding-top: 10%;
     margin: auto;
     text-align: center;
+}
+
+#gallery h5 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+#gallery img {
+    width: 100%;
+    height: 300px;
+    opacity: 0.5;
+}
+
+#gallery{
+    height: 100vh;
 }
