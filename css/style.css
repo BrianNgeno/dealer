@@ -22,3 +22,20 @@
 .carousel-item p{
     color: #000;
 }
+
+#about{
+    padding: 5%;
+}
+
+#about h5{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+#about p{
+    padding-top: 10%;
+    margin: auto;
+    text-align: center;
+}
